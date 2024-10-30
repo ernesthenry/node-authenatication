@@ -1,5 +1,5 @@
 # Node: Authentication
-This is the repository for the LinkedIn Learning course Node: Authentication. The full course is available from [LinkedIn Learning][lil-course-url].
+
 
 ![Node: Authentication][lil-thumbnail-url] 
 
